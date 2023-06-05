@@ -27,8 +27,10 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import phalbum from "./phalbum.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import oxygen from "./company/OXYGEN.png";
 
 export {
   logo,
@@ -59,4 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  oxygen,
+  phalbum,
 };
